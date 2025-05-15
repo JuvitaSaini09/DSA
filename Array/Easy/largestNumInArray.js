@@ -7,5 +7,5 @@ function largestNum(nums) {
   }
   return largestNum;
 }
-//commenttt
+//comment
 console.log(largestNum([3, 3, 6, 1])); //return 6
